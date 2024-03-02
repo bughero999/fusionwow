@@ -1,2 +1,9 @@
 SERVERALERT:
-<html><body><p>We will be performing scheduled maintenance beginning on Ham Day 2, 7:00 AM (PST) and we expect the service to be available again at approximately 8:00 AM (PST). During this time the game will be unavailable for play.</p></body></html> 
+<html>
+	<body>
+		<p>We will be performing scheduled maintenance beginning on Double Ham Day, 7:00 AM (EST) and we expect the service to be available again at approximately 8:00 AM (EST). During this time the game will be unavailable for play.</p>
+		<p>Current Population:<br>
+		5,000
+		</p>
+	</body>
+</html> 
